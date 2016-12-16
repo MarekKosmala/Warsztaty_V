@@ -1,0 +1,15 @@
+Nowy projekt Symfony 2:
+=======================
+
+1. nie tworzyć ręcznie katalogu, tylko przez symfony new
+
+2. wejść do utworzonego katalogu => git init
+
+3. 
+
+
+bundle, encje
+wszystkie encje+klucze, schema update, crud
+
+bootstrap do głównego widoku
+ twig head->podpiąć
